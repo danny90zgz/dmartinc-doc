@@ -7,3 +7,5 @@
 * [**Notepad++**](https://notepad-plus-plus.org/download/v7.6.3.html)
 * [**Ditto**](https://ditto-cp.sourceforge.io/)
 * [**SumatraPDF**](https://www.sumatrapdfreader.org/download-free-pdf-viewer.html)
+* [**Telegram**](https://desktop.telegram.org/)
+* [**Slack**](https://desktop.telegram.org/)
