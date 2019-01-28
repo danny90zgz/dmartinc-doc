@@ -8,6 +8,7 @@ alias gcb="./gradlew build"
 
 ## Kubernetes
 ```bash
+alias k="kubectl"
 alias kdc="kubectl describe configmap"
 alias kdd="kubectl describe deployment"
 alias kdi="kubectl describe ingress"
@@ -22,7 +23,6 @@ alias kgp="kubectl get pods"
 alias kgs="kubectl get services"
 alias kl="kubectl logs -f"
 alias kt="kubectl logs -f --tail=1"
-alias kube="kubectl"
 alias kubeProxy="kubectl proxy --address 0.0.0.0 --accept-hosts='^*$' &"
 ```
 
