@@ -9,4 +9,5 @@
 * [**SumatraPDF**](https://www.sumatrapdfreader.org/download-free-pdf-viewer.html)
 * [**Telegram**](https://desktop.telegram.org/)
 * [**Slack**](https://desktop.telegram.org/)
+* [**WinSCP**](https://winscp.net/eng/download.php)
 * [**Docker**](https://download.docker.com/win/stable/Docker%20for%20Windows%20Installer.exe)
